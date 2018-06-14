@@ -1,0 +1,3 @@
+([('Data Linearization',
+   '/Users/higashi/Data Linearization/dist/Data Linearization',
+   'EXECUTABLE')],)
